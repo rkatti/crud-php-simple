@@ -9,7 +9,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC"); // usin
 
 <html>
 <head>	
-	<title>Homepage Test 1.0</title>
+	<title>Homepage Test 1.A</title>
 </head>
 
 <body>

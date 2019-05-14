@@ -1,1 +1,1 @@
-add.php
+add.html
